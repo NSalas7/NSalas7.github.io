@@ -54,7 +54,7 @@
 	$(document).ready(function() {
 	    var t = $('#taula').DataTable( {
 	    	ajax: {
-				url: '../../models/Profes.php',
+				url: 'http://52.157.103.150/api/users/Profes.php',
 		    	 dataSrc: '',
 		    	 type:"POST",
 		    	 },
@@ -74,7 +74,7 @@
 		function loadData(){
 			t = $('#taula').DataTable( {
 				ajax: {
-				url: '../../models/Profes.php',
+				url: 'http://52.157.103.150/api/users/Profes.php',
 				dataSrc: '',
 				type:"POST",
 			},
