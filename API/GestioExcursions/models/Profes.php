@@ -9,7 +9,7 @@ $dbname = "GestioExcursions";
 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
-$stmt = $conn->prepare("select  * from Professors");
+$stmt = $conn->prepare("select  id, Nom, Correu, Contrasenya from Professors");
 $stmt->execute();
 $result = $stmt->get_result();
 $outp = $result->fetch_all(MYSQLI_ASSOC);
