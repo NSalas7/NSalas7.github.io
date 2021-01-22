@@ -1,7 +1,7 @@
 <?php
 header("Content-Type: application/json; charset=UTF-8");
 
-$servername = "10.0.1.4";
+$servername = "52.157.103.150";
 $username = "admin";
 $password = "admin7";
 $dbname = "GestioExcursions";
