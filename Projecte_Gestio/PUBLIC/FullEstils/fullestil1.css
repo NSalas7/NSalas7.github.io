@@ -1,0 +1,26 @@
+.modal-content {
+  background-color: #F7F6C9;
+  border: 1px solid black;
+}
+
+.modal-header {
+  border: 1px solid black;
+}
+
+.modal-body {
+  border: 1px solid black;
+}
+
+.modal-footer {
+  border: 1px solid black;
+}
+
+#titol {
+  text-align: center;
+}
+
+#contenidor {
+  background-color: #F7F6C9;
+}
+
+/*# sourceMappingURL=fullestil1.css.map */
