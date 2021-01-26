@@ -1,6 +1,6 @@
 <?php
-$servername = "127.0.0.1:3308";
-$username = "adminXavi";
-$password = "12345678";
+$servername = "10.0.1.4";
+$username = "admin";
+$password = "admin7";
 $dbname = "GestioExcursions";
 ?>
