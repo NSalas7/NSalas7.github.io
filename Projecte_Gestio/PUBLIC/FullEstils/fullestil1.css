@@ -1,0 +1,51 @@
+.modal-content {
+  background-color: #F7F6C9;
+  border: 1px solid black;
+}
+
+.modal-header {
+  border: 1px solid black;
+}
+
+.modal-body {
+  border: 1px solid black;
+}
+
+.modal-footer {
+  border: 1px solid black;
+}
+
+#titol {
+  text-align: center;
+}
+
+#contenidorExcursions {
+  background-color: #F7F6C9;
+  margin-top: 60px;
+}
+
+.form-control {
+  border: 1px solid black;
+}
+
+#contenidorAlumnes {
+  margin-top: 60px;
+  background-color: #C8DDB4;
+  opacity: 0.8;
+}
+
+#form {
+  margin-top: 60px;
+}
+
+#falu {
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+#bRegistre {
+  border-radius: 20px;
+  float: right;
+}
+
+/*# sourceMappingURL=fullestil1.css.map */

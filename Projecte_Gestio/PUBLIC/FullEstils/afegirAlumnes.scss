@@ -1,0 +1,28 @@
+$colorFonsForm: #C8DDB4;
+$transparencia: 0.8;
+$margetop: 60px;
+$margebottom: 60px;
+$radi: 20px;
+$borde: 1px solid black;
+$posicio: right;
+
+
+#contenidorAlumnes{
+	margin-top: $margetop;
+	background-color: $colorFonsForm;
+	opacity: $transparencia;
+}
+
+#form{
+	margin-top: $margetop;
+}
+
+#falu{
+	border-radius: $radi;
+	border: $borde;
+}
+
+#bRegistre{
+	border-radius: $radi;
+	float: $posicio;
+}
