@@ -9,11 +9,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"> 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="../Estils/fullestil1.css">
+  <link rel="stylesheet" type="text/css" href="../Public/Estils/fullestil1.css">
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 
   <!-- Logo del nom de la pagina -->
-  <link rel="icon" type="image/png" href="../IMG/logo1_negre.png">
+  <link rel="icon" type="image/png" href="../Public/IMG/logo1_negre.png">
 
 <!-- Funcio que bloqueja el camp del correu de l'alumne, en cas que l'alumne sigui menor d'edat. -->
   <script>
@@ -30,11 +30,12 @@
 </head>
 <!-- Imatge de fons. -->
 <body background="IMG/forestbridge.jpg">
+  <?php include_once 'CapçaleraLogin.html'; ?>
   <div class="container" id="contenidorAlumnes">
     <h1 id="titol">Formulari Registre</h1>
 
         <!-- Formulari per donar d'alta un Alumne. -->
-        <form action="../Models/inserir_alumne.php" method="get" id="form">
+        <form action="inserir_alumne.php" method="get" id="form">
           <div class="form-row">
             <div class="form-group col-md-4">
               Nom alumne: <input type="textarea" class="form-control" id="falu" name="nom">
@@ -90,15 +91,16 @@
           </div>
           <div class="form-row">
             <div class="form-group col-md-6">
-              Contrasenya: <input type="password" class="form-control" id="falu" name="password">
+              Contrasenya: <input type="password" class="form-control" id="falu" name="contra">
             </div>
           </div>
-          <div class="form-row mr-auto">
-            <div class="form-group">
-              <button type="submit" class="btn btn-dark float-right" id="bRegistre1">Registrar Alumne</button>
+          <div class="form-row">
+           <div class="form-group ml-auto">
+            <button type="submit" class="btn btn-dark float-right" id="bRegistre1">Registrar Alumne</button>
             </div>
           </div>
         </form>
+        <p/>
       </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

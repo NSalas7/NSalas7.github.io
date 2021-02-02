@@ -9,28 +9,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"> 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="../Estils/fullestil1.css">
+  <link rel="stylesheet" type="text/css" href="../Public/Estils/fullestil1.css">
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 
   <!-- Logo del nom de la pagina -->
-  <link rel="icon" type="image/png" href="../IMG/logo1_negre.png">
+  <link rel="icon" type="image/png" href="../Public/IMG/logo1_negre.png">
 </head>
 <!-- Imatge de fons. -->
 <body background="IMG/forestbridge.jpg">
+  <?php include_once 'CapçaleraLogin.html'; ?>
   <div class="container" id="contenidorIniciSessio">
     <h1 id="titol">Inici Sessió</h1>
 
         <!-- Formulari per donar d'alta un Alumne. -->
         <form id="formul">
           <div class="form-row">
-            <div class="form-group col-md-8 mx-auto">
+            <div class="form-group col-8 mx-auto">
               <div id="us"><h5>Usuari:</h5>
-              <input type="textarea" class="form-control" id="falu" name="user">
+              <input type="textarea" class="form-control" id="falu" name="user" placeholder="@ e-mail">
               </div>
             </div>
           </div>
           <div class="form-row">
-            <div class="form-group col-md-8 mx-auto">
+            <div class="form-group col-8 mx-auto">
               <div id="co"><h5>Contrasenya:</h5>
                 <input type="password" class="form-control" id="falu" name="contra">
               </div>
@@ -38,9 +39,9 @@
           </div>
           <div class="form-row">
             <div class="form-group mx-auto">
-              <button type="submit" action="inserir_alumne.php" method="get" class="btn btn-dark" id="binici"><h6>Iniciar Sessió</h6></button>
-              <p/>
-              <button type="submit" action="afegirAlumne.html" method="get" class="btn btn-dark" id="bRegistre"><h6>Registrar Alumne</h6></button>
+             <a href="ComprovarAlumne.php" class="btn btn-dark" id="binici"><h6>Iniciar Sessió</h6></a>
+              <br>
+              <a href="AfegirAlumne.php" class="btn btn-dark" id="bRegistre"><h6>Registrar Alumne</h6></a>
             </div>
           </div>
         </form>
