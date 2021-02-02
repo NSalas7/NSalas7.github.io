@@ -1,0 +1,124 @@
+@charset "UTF-8";
+/* CAPÇALERA*/
+#logo {
+  width: 200px;
+  height: 150px;
+  margin-top: -45px;
+}
+
+#cat {
+  width: 30px;
+  height: 30px;
+}
+
+#es {
+  width: 30px;
+  height: 30px;
+  margin-left: 60px;
+}
+
+#idiomes {
+  margin-left: auto;
+  margin-right: 0px;
+}
+
+/* FORMULARI INICI DE SESSIO */
+/* CONTRASENYA */
+#co {
+  margin-top: 28px;
+  width: 315px;
+}
+
+/* USUARI */
+#us {
+  width: 315px;
+}
+
+#contenidorIniciSessio {
+  margin-top: 60px;
+  background-color: #C8DDB4;
+  opacity: 0.8;
+  width: 505px;
+  text-align: center;
+  height: 530px;
+}
+
+#formul {
+  float: center;
+  margin-top: 60px;
+}
+
+#binici {
+  background-color: #9EBC82;
+  height: 35px;
+  width: 227px;
+  margin-top: 58px;
+  border-radius: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+#bRegistre {
+  height: 35px;
+  width: 227px;
+  margin-top: 40px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+/* FORMULARI AFEGIR ALUMNES */
+#contenidorAlumnes {
+  margin-top: 60px;
+  background-color: #C8DDB4;
+  opacity: 0.8;
+}
+
+#form {
+  margin-top: 60px;
+}
+
+#falu {
+  border-radius: 20px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+#bRegistre1 {
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: 0px;
+}
+
+/* MODAL AFEGIR PROFESSORS */
+.modal-content {
+  background-color: #F7F6C9;
+  border: 1px solid black;
+}
+
+.modal-header {
+  border: 1px solid black;
+}
+
+.modal-body {
+  border: 1px solid black;
+}
+
+.modal-footer {
+  border: 1px solid black;
+}
+
+/* FORMULARI AFEGIR EXCURSIO */
+#titol {
+  text-align: center;
+}
+
+#contenidorExcursions {
+  background-color: #F7F6C9;
+  margin-top: 60px;
+}
+
+.form-control {
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=fullestil1.css.map */
