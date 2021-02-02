@@ -22,6 +22,15 @@
   margin-right: 0px;
 }
 
+.navbar-toggler-icon {
+  background-color: #ffffff;
+}
+
+#navbarSupportedContent {
+  margin-left: auto;
+  margin-right: 0px;
+}
+
 /* FORMULARI INICI DE SESSIO */
 /* CONTRASENYA */
 #co {
@@ -122,3 +131,4 @@
 }
 
 /*# sourceMappingURL=fullestil1.css.map */
+
