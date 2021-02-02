@@ -35,7 +35,7 @@
     <h1 id="titol">Formulari Registre</h1>
 
         <!-- Formulari per donar d'alta un Alumne. -->
-        <form action="inserir_alumne.php" method="get" id="form">
+        <form action="../Models/inserir_alumne.php" method="get" id="form">
           <div class="form-row">
             <div class="form-group col-md-4">
               Nom alumne: <input type="textarea" class="form-control" id="falu" name="nom">

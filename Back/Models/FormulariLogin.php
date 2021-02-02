@@ -41,7 +41,7 @@
             <div class="form-group mx-auto">
              <a href="ComprovarAlumne.php" class="btn btn-dark" id="binici"><h6>Iniciar Sessió</h6></a>
               <br>
-              <a href="AfegirAlumne.php" class="btn btn-dark" id="bRegistre"><h6>Registrar Alumne</h6></a>
+              <a href="../Vistes/AfegirAlumne.php" class="btn btn-dark" id="bRegistre"><h6>Registrar Alumne</h6></a>
             </div>
           </div>
         </form>
