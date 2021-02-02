@@ -7,6 +7,7 @@ $margeEsquerra: 60px;
 $posicio: right;
 $margeEsquerra1: auto;
 $margeDret: 0px;
+$colorFons: #ffffff;
 
 
 /* CAPÇALERA*/
@@ -30,6 +31,14 @@ $margeDret: 0px;
 
 #idiomes{
 	margin-left: $margeEsquerra1;
+	margin-right: $margeDret;	
+}
+
+.navbar-toggler-icon{
+	background-color: $colorFons;
+}
+
+#navbarSupportedContent{
+	margin-left: $margeEsquerra1;
 	margin-right: $margeDret;
-	
 }
