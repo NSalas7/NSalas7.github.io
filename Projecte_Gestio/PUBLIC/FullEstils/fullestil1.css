@@ -47,7 +47,8 @@
   margin-top: 60px;
   background-color: #C8DDB4;
   opacity: 0.8;
-  width: 505px;
+  max-width: 505px;
+/*  width: 505px; */
   text-align: center;
   height: 530px;
 }

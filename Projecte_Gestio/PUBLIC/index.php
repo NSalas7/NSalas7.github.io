@@ -18,26 +18,26 @@
 <!-- Imatge de fons. -->
 <body background="IMG/forestbridge.jpg">
   <?php include_once 'CapçaleraLogin.html'; ?>
-  <div class="container" id="contenidorIniciSessio">
+  <div class="container-sm" id="contenidorIniciSessio">
     <h1 id="titol">Inici Sessió</h1>
 
         <!-- Formulari per donar d'alta un Alumne. -->
         <form id="formul">
           <div class="form-row">
-            <div class="form-group col-8 mx-auto">
+            <div class="form-group mx-auto">
               <div id="us"><h5>Usuari:</h5>
               <input type="textarea" class="form-control" id="falu" name="user" placeholder="@ e-mail">
               </div>
             </div>
           </div>
           <div class="form-row">
-            <div class="form-group col-8 mx-auto">
+            <div class="form-group mx-auto">
               <div id="co"><h5>Contrasenya:</h5>
                 <input type="password" class="form-control" id="falu" name="contra">
               </div>
             </div>
           </div>
-          <div class="form-row">
+          <div class="form-row mx-auto">
             <div class="form-group mx-auto">
              <a href="ComprovarAlumne.php" class="btn btn-dark" id="binici"><h6>Iniciar Sessió</h6></a>
               <br>
