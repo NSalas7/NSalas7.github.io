@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d7820c8-daff-4c01-8f52-ed3698fe8038" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/CONFIG/DBcon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/AfegirAlumne.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vistes/AfegirAlumne.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/AfegirAlumne.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/AfegirAlumne.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/AfegirExcursio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vistes/AfegirExcursio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/AfegirProfesor.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vistes/AfegirProfesor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/BD.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/BD.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/BDAlumnes.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/BDAlumnes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/BDexcursions.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/BDexcursions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/CapçaleraLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vistes/CapçaleraLogin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FormulariLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vistes/FormulariLogin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FormulariLogin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/FormulariLogin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FullEstils/afegirAlumnes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Estils/afegirAlumnes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FullEstils/afegirExcursio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Estils/afegirExcursio.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FullEstils/capçalera.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Estils/capçalera.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FullEstils/formulariLogin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Estils/formulariLogin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FullEstils/fullestil.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Estils/fullestil.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FullEstils/fullestil1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Estils/fullestil1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FullEstils/fullestil1.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Estils/fullestil1.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/FullEstils/modalProfes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Estils/modalProfes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/Direccio.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/Direccio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/Email.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/Email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/Idioma_Español.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/Idioma_Español.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/Idioma_catala.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/Idioma_catala.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/forestbridge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/logo1_blanc.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/logo1_blanc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/logo1_negre.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/logo1_negre.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/logo_blanc.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/logo_blanc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/logo_negre.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/logo_negre.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/IMG/traduccion-espanol.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMG/traduccion-espanol.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/inserir_alumne.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/inserir_alumne.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/inserir_excursio.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/inserir_excursio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/inserir_profesor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/inserir_profesor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecte_Gestio/PUBLIC/profes.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/profes.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nv6QjMnYdpAuonBsQiaYK8IGDW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Projecte" />
+      <recent name="C:\xampp\htdocs\Projecte\Projecte\Models" />
+      <recent name="C:\xampp\htdocs\Projecte\Projecte\Vistes" />
+      <recent name="C:\xampp\htdocs\Projecte\Projecte\IMG" />
+      <recent name="C:\xampp\htdocs\Projecte\Projecte\Estils" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d7820c8-daff-4c01-8f52-ed3698fe8038" name="Default Changelist" comment="" />
+      <created>1612258202278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612258202278</updated>
+      <workItem from="1612258203939" duration="512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="933" y="170" key="FileChooserDialogImpl" timestamp="1612258234820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612258234820" />
+  </component>
+</project>
