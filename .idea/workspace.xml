@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d7820c8-daff-4c01-8f52-ed3698fe8038" name="Default Changelist" comment="mvc">
+      <change afterPath="$PROJECT_DIR$/API/router.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back/Models/AfegirAlumne.php" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Vistes/AfegirAlumne.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back/Models/FormulariLogin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Models/FormulariLogin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back/Public/Estils/formulariLogin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Public/Estils/formulariLogin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back/Public/Estils/fullestil1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Public/Estils/fullestil1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Back/Public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back/Vistes/CapçaleraLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Vistes/CapçaleraLogin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back/Vistes/FormulariLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Vistes/FormulariLogin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/Vistes/FormulariLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Vistes/FormulariLogin.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612258202278</updated>
-      <workItem from="1612258203939" duration="8471000" />
+      <workItem from="1612258203939" duration="14131000" />
     </task>
     <task id="LOCAL-00001" summary="mvc">
       <created>1612258843115</created>
@@ -95,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612266565838</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mvc">
+      <created>1612269482615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612269482615</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +128,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612258234820" />
+    <state x="981" y="138" key="NewPhpClassDialog" timestamp="1612339478494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="981" y="138" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1612339478494" />
     <state x="604" y="336" key="NewPhpFileDialog" timestamp="1612262592189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
