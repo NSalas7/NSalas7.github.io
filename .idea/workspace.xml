@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7820c8-daff-4c01-8f52-ed3698fe8038" name="Default Changelist" comment="mvc">
-      <change afterPath="$PROJECT_DIR$/API/router.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back/Public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back/Vistes/FormulariLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Back/Vistes/FormulariLogin.php" afterDir="false" />
-    </list>
+    <list default="true" id="1d7820c8-daff-4c01-8f52-ed3698fe8038" name="Default Changelist" comment="mvc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612258202278</updated>
-      <workItem from="1612258203939" duration="14131000" />
+      <workItem from="1612258203939" duration="14474000" />
     </task>
     <task id="LOCAL-00001" summary="mvc">
       <created>1612258843115</created>
@@ -98,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612269482615</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="mvc">
+      <created>1612341491461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612341491461</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,10 +138,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1612262592189" />
-    <state x="722" y="148" key="Vcs.Push.Dialog.v2" timestamp="1612267424620">
+    <state x="722" y="148" key="Vcs.Push.Dialog.v2" timestamp="1612341682098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612267424620" />
+    <state x="722" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612341682098" />
     <state x="184" y="0" width="577" height="809" key="dock-window-1" timestamp="1612269157950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
