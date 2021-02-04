@@ -1,2 +1,2 @@
 <?php
-echo "Excursio";
+require "../../Back/Vistes/Cards.php";

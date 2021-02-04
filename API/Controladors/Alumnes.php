@@ -1,2 +1,2 @@
 <?php
-echo "Alumnes";
+require "../../Back/Vistes/AfegirAlumne.php";
