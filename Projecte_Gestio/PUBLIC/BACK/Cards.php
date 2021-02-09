@@ -28,7 +28,7 @@ include_once "navbar.php";
     </div>
 
     <div class="card bg-success rounded-0">
-      <img class="card-img-top p-3" src="../IMG/default.png" alt="Card image cap">
+      <img class="card-img-top p-3" src="../IMG/default.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title text-center bg-white text-dark">Titol excursio</h5>
         <div class="text-center">
@@ -39,7 +39,7 @@ include_once "navbar.php";
     </div>
 
     <div class="card bg-success rounded-0">
-      <img class="card-img-top p-3" src="../IMG/default.png" alt="Card image cap">
+      <img class="card-img-top p-3" src="../IMG/default.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title text-center bg-white text-dark">Titol excursio</h5>
         <div class="text-center">
@@ -54,7 +54,7 @@ include_once "navbar.php";
 
   <div class="card-deck">
     <div class="card bg-success rounded-0">
-      <img class="card-img-top p-3" src="../IMG/default.png" alt="Card image cap">
+      <img class="card-img-top p-3" src="../IMG/default.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title text-center bg-white text-dark">Titol excursio</h5>
         <div class="text-center">
@@ -65,7 +65,7 @@ include_once "navbar.php";
     </div>
 
     <div class="card bg-success rounded-0">
-      <img class="card-img-top p-3" src="../IMG/default.png" alt="Card image cap">
+      <img class="card-img-top p-3" src="../IMG/default.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title text-center bg-white text-dark">Titol excursio</h5>
         <div class="text-center">
@@ -76,7 +76,7 @@ include_once "navbar.php";
     </div>
 
     <div class="card bg-success rounded-0">
-      <img class="card-img-top p-3" src="../IMG/default.png" alt="Card image cap">
+      <img class="card-img-top p-3" src="../IMG/default.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title text-center bg-white text-dark">Titol excursio</h5>
         <div class="text-center">
