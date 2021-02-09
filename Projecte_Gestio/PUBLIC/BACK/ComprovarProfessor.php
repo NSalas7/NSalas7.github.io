@@ -1,3 +1,4 @@
+
 <?php
 include '../../CONFIG/DBcon.php';
 
@@ -19,7 +20,7 @@ if (mysqli_num_rows($rs)==1){
    //TODO CORRECTO!! He detectado un usuario
    $usuari_trobat = mysqli_fetch_object($rs);
    echo "Autenticado correctamente";
-   header ("Location: http://admin.gestioexcursions.me/Pagina_Principal.php");
+   header ("Location: http://admin.gestioexcursions.me/Cards.php");
 
 }else{
    echo "Error de autenticació!";
