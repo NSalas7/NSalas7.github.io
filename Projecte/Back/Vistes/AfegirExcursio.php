@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Gestio Excursions</title>
   <!-- Logo del nom de la pagina -->
-  <link rel="icon" type="image/png" href="../../Public/IMG/logo1_negre.png">
+  <link rel="icon" type="image/png" href="IMG/logo1_negre.png">
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
