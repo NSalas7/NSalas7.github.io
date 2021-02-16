@@ -29,6 +29,6 @@ $ex->inserir($nomI,$duracioI,$descripcioI,$publica,$bus,$imatge,$cursI,$llocI,$d
 
 $db_con->close();
 
-header("Location: http://localhost/Disseny/Projecte/Back/Vistes/MostrarExcursio.php");
+header("Location: http://admin.gestioexcursions.me/MostrarExcursio.php"");
 
 //header("Location: http://localhost/Projecte/Back/Vistes/Cards.php");
