@@ -18,4 +18,4 @@ $profe->insert($nomI,$contrasenyaI,$rolI,$correuI);
 
 $db_con->close();
 
-header("Location: http://localhost/Projecte/Back/Vistes/mostrarProfessor.php");
+header("Location: http://admin.gestioexcursions.me/MostrarProfessor.php");
