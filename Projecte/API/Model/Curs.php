@@ -12,7 +12,7 @@ class Curs
         $this->conn = $db;
     }
 
-    public function read()
+    public function readAll()
     {
 
         $query = "SELECT * FROM Curs";
