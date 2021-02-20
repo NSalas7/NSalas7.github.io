@@ -18,12 +18,8 @@ $rs = $profe->logIn($correu,$contra);
 if (mysqli_num_rows($rs) == 1) {
     //TODO CORRECTO!! He detectado un usuario
     $usuari_trobat = mysqli_fetch_object($rs);
-    header("Location: http://localhost/Back/Vistes/MostrarExcursio.php");
+    header("Location: http://admin.gestioexcursions.me/mostrarProfessors");
 
 }
-//} else {
-//    header("Location: http://localhost/");
-//}
-
 
 mysqli_close($db_con);
