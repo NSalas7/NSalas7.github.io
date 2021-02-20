@@ -1,0 +1,66 @@
+$colorFonsForm: #C8DDB4;
+$transparencia: 0.8;
+$margetop: 60px;
+$margebottom: 60px;
+$radi: 20px;
+$borde: 1px solid black;
+$tamanyAmple: 505px;
+$tamanyAlt: 530px;
+$tamanyAmpleT: 315px;
+$colorLletresNegres: black;
+$posicio: center;
+$botoInici: #9EBC82;
+$tamanyBotoAmple: 227px;
+$tamanyBotoAlt: 35px;
+$margeAdaltContra: 28px;
+$margeAdaltB2: 40px;
+$margeAdaltB1: 58px;
+$text: none;
+
+
+/* FORMULARI INICI DE SESSIO */
+
+/* CONTRASENYA */
+#co{
+	margin-top: $margeAdaltContra;
+	width: $tamanyAmpleT;
+	border-radius: $radi;
+}
+
+/* USUARI */
+#us{
+	width: $tamanyAmpleT;
+	border-radius: $radi;
+}
+
+#contenidorIniciSessio{
+	margin-top: $margetop;
+	background-color: $colorFonsForm;
+	opacity: $transparencia;
+	max-width: $tamanyAmple;
+	text-align: $posicio;
+	height: $tamanyAlt;
+}
+
+#formul{
+	float: $posicio;
+	margin-top: $margetop;
+}
+
+#binici{
+	background-color: $botoInici;
+	height: $tamanyBotoAlt;
+	width: $tamanyBotoAmple;
+	margin-top: $margeAdaltB1;
+	border-radius: $radi;
+	color: $colorLletresNegres;
+	text-decoration: $text;
+}
+
+#bRegistre{
+	height: $tamanyBotoAlt;
+	width: $tamanyBotoAmple;
+	margin-top: $margeAdaltB2;
+	text-decoration: $text;
+	border-radius: $radi;
+}
