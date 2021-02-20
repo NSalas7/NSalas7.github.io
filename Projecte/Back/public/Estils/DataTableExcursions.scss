@@ -1,0 +1,22 @@
+$colorboto: white;
+$colornegre: #000000;
+$radi: 5px;
+
+
+
+
+/*Color Boto Afegir Excursio Cards. */
+#botoAfegirExcursio{
+	background-color: $colorboto;
+	border-style: $colornegre;
+	border-radius: $radi;
+	color: $colornegre;
+}
+
+/*Color Boto Cursos Cards. */
+#botoCursos{
+	background-color: $colorboto;
+	border-style: $colornegre;
+	border-radius: $radi;
+	color: $colornegre;
+}
