@@ -1,0 +1,70 @@
+$tamanyAlt: 80px;
+$tamanyAmple: 80px;
+$color: #9EBC82;
+$colorboto: white;
+$colorbotoprofessor: #C8C8C8;
+$colornegre: #000000;
+$radi: 5px;
+$margeEsquerra: 90px;
+$margeEsquerra1: auto;
+$margeDret: 0px;
+$marge: 20px;
+$tamanycercador: 35px;
+$no: none;
+
+/* Tamanys Logo Capçalera Login Cards. */
+#capçaleraBackCards{
+	width: $tamanyAmple;
+	height: $tamanyAlt;
+}
+
+/* Color Capçalera Cards. */
+#colornavbar{
+	background-color: $color;
+}
+
+/* Link de les excursions */
+#linkExcursions{
+	text-decoration: $no;
+	color: $colornegre;
+	margin-left: $margeEsquerra;
+}
+
+
+#calendari{
+	color: $colornegre;
+	margin-left: $margeEsquerra;
+}
+
+/* Boto mostrar Professors. */
+#mostrarProfessor{
+	text-decoration: $no;
+	color: $colornegre;
+	margin-left: $margeEsquerra;
+}
+
+
+/* Boto mostrar Alumnes. */
+#mostrarAlumnes{
+	text-decoration: $no;
+	color: $colornegre;
+	margin-left: $margeEsquerra;
+}
+
+/* Boto mostrar Pagos. */
+#mostrarPagos{
+	text-decoration: $no;
+	color: $colornegre;
+	margin-left: $margeEsquerra;
+}
+
+/* Boto Tancar Sessió. */
+#tancarSessio{
+	text-decoration: $no;
+	color: $colornegre;
+	margin-left: $margeEsquerra;
+}
+
+.navbar-toggler-icon{
+	background-color: $colorboto;
+}
