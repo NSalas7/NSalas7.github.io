@@ -1,0 +1,17 @@
+$color: #9EBC82;
+$lletres: none;
+$colornegre: #000000;
+$centrat: center;
+$margedret: 0px;
+
+
+#colorfooter{
+	background-color: $color;
+}
+
+#copy{
+	text-decoration: $lletres;
+	color: $colornegre;
+	text-align: $centrat !important;
+	margin-right: $margedret; 
+}
