@@ -1,0 +1,37 @@
+<?php
+
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+header('Access-Control-Allow-Methods: *');
+
+include "../../Model/Config/DataBase.php";
+include_once "../../Model/AlumneInserir.php";
+
+$db = new DataBase();
+$db_con = $db->conn();
+$alumne = new AlumneInserir($db_con);
+
+$nomI = $_POST["nom"];
+$llinatge1I = $_POST["llinatge1"];
+$edatI = $_POST["edat"];
+$edatI = (int)$edatI;
+$cursI = $_POST["curs"];
+if (isset($_POST["correuPare"])){
+$correuPI = $_POST["correuPare"];
+}else{
+$correuPI = " ";
+}
+if(isset($_POST["correuAlumne"])){
+$correuAI = $_POST["correuAlumne"];
+}else{
+$correuAI = " ";
+}
+$passwordI = $_POST["contra"];
+
+echo "Hola";
+
+$alumne->inserir($nomI, $llinatge1I, $llinatge2I, $edatI, $cursI, $correuPI, $correuAI, $passwordI);
+
+$db_con->close();
+
+//header("Location: http://www.gestioexcursions.me/");
