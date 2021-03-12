@@ -1,0 +1,42 @@
+/* Formulari Pagament */
+
+#contenidorPagament{
+    background-color: #D1D091;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#titol{
+    text-align: center;
+}
+
+.fal{
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+#mes{
+    float: center;
+}
+
+#any{
+    float: right;
+}
+
+#titolForm{
+    text-align: center;
+}
+
+#PagamentTitular{
+    margin-top: 30px;
+}
+
+#cvv{
+    width: 250px;
+}
+
+#tornar{
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 10px !important;
+}

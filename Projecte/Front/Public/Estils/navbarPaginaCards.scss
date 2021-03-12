@@ -1,0 +1,60 @@
+$tamanyAlt: 80px; 
+$tamanyAmple: 80px; 
+$color: #9EBC82; 
+$colorboto: white; 
+$colornegre: #000000; 
+$colorProva: #7B9895;
+$no: none; 
+$font: 'Anton', sans-serif; 
+$alineat : center; 
+$margeEsquerra1: auto; 
+$margeDret: 0px; 
+$tamanylletra: 15px;
+$amplada: 100%;
+
+/* Tamanys Logo Capçalera Login Cards. */
+#capçaleraBackCards{
+	width: $tamanyAmple;
+	height: $tamanyAlt;
+}
+
+/* Color Capçalera Cards. */
+#colornavbar{
+	background-color: $color;
+}
+
+/* Tancar Sessió */
+#tancarSessio{
+	text-decoration: $no;
+	background-color: $colornegre !important;
+	color: $colorboto;
+	font-family: $font;
+	font-size: $tamanylletra;
+}
+
+#BotoExcursions{
+	background-color: $colorboto !important;
+	border-color: $colornegre;
+}
+
+#lletrestancarSessio{
+	color: $colorboto;
+}
+
+.navbar-toggler-icon{
+	background-color: $colorboto;
+}
+
+#navbarSupportedContent{
+	margin-left: $margeEsquerra1;
+	margin-right: $margeDret;
+}
+
+#row{
+	width: $amplada;
+}
+
+#fills{
+	background-color: $colorboto !important;
+	border-color: $colornegre;
+}
