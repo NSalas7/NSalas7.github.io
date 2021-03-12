@@ -1,0 +1,324 @@
+@charset "UTF-8";
+/* CAPÇALERA*/
+#logo {
+  width: 200px;
+  height: 150px;
+  margin-top: -45px;
+}
+
+#cat {
+  width: 30px;
+  height: 30px;
+}
+
+#es {
+  width: 30px;
+  height: 30px;
+  margin-left: 60px;
+}
+
+#idiomes {
+  margin-left: auto;
+  margin-right: 0px;
+}
+
+/* FORMULARI INICI DE SESSIO */
+/* CONTRASENYA */
+#co {
+  margin-top: 28px;
+  width: 315px;
+  border-radius: 20px;
+}
+
+/* USUARI */
+#us {
+  width: 315px;
+  border-radius: 20px;
+}
+
+#contenidorIniciSessio {
+  margin-top: 60px;
+  background-color: #C8DDB4;
+  opacity: 0.8;
+  max-width: 505px;
+  text-align: center;
+  height: 530px;
+}
+
+#formul {
+  float: center;
+  margin-top: 60px;
+}
+
+#binici {
+  background-color: #9EBC82;
+  height: 35px;
+  width: 227px;
+  margin-top: 58px;
+  border-radius: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+#bRegistre {
+  height: 35px;
+  width: 227px;
+  margin-top: 40px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+#bodyformulari {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Tamanys Logo Capçalera Login Cards. */
+#capçaleraBackCards {
+  width: 80px;
+  height: 80px;
+}
+
+/* Color Capçalera Cards. */
+#colornavbar {
+  background-color: #9EBC82;
+}
+
+/* Link de les excursions */
+#linkExcursions {
+  text-decoration: none;
+  color: #000000;
+  font-family: "Anton", sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
+
+/* Mostrar Professors */
+#mostrarProfessor {
+  text-decoration: none;
+  color: #000000;
+  font-family: "Anton", sans-serif;
+  font-size: 15px;
+}
+
+/* Mostrar Alumnes */
+#mostrarAlumnes {
+  text-decoration: none;
+  color: #000000;
+  font-family: "Anton", sans-serif;
+  font-size: 15px;
+}
+
+/* Mostrar Usuaris */
+#mostrarUsuaris {
+  text-decoration: none;
+  color: #000000;
+  font-family: "Anton", sans-serif;
+  font-size: 15px;
+}
+
+/* Mostrar Pagos */
+#mostrarPagos {
+  text-decoration: none;
+  color: #000000;
+  font-family: "Anton", sans-serif;
+  font-size: 15px;
+}
+
+/* Tancar Sessió */
+#tancarSessio {
+  text-decoration: none;
+  color: #000000;
+  font-family: "Anton", sans-serif;
+  font-size: 15px;
+}
+
+.navbar-toggler-icon {
+  background-color: white;
+}
+
+#navbarSupportedContent {
+  margin-left: auto;
+  margin-right: 0px;
+}
+
+#row {
+  width: 100%;
+}
+
+:root {
+  --color_No: #FF1100;
+  --color_Si: #39CA00;
+}
+
+/*Color Boto Afegir Excursio. */
+#botoAfegirExcursio {
+  background-color: white;
+  border-style: #000000;
+  border-radius: 5px;
+  color: #000000;
+}
+
+/*Color Boto Afegir Excursio. */
+#botoVeureExcursio {
+  background-color: white;
+  border-style: #000000;
+  border-radius: 5px;
+  color: #000000;
+}
+
+/*Color Boto Cursos. */
+.select-css {
+  background-color: white;
+  border-style: #000000;
+  border-radius: 5px;
+  color: #000000;
+  height: 35px;
+}
+
+/*Color Boto modificar. */
+#botoModificar {
+  background-color: white;
+  border-style: #000000;
+  border-radius: 5px;
+  color: #000000;
+}
+
+/*Color Boto Eliminar. */
+#botoAlumnesPagats {
+  background-color: white;
+  border-style: #000000;
+  border-radius: 5px;
+  color: #000000;
+}
+
+#calendari {
+  border-radius: 5px;
+  height: 35px;
+}
+
+.titol_grafic {
+  text-align: center;
+  color: #000000;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.contenidor_grafic {
+  max-width: 700px;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grafic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-image: conic-gradient(var(--color_Si) 7.14%, var(--color_No) 7.14%);
+  box-shadow: 1px 1px 5px 1px rgb 70, 70, 70;
+}
+
+.leyenda_all {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.social {
+  color: #000000;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  line-height: 1.6;
+}
+
+.page-item.active .page-link {
+  background-color: #9EBC82;
+  border-color: #7b7b7b;
+}
+
+.nomExcursio {
+  border-color: #FFFFFF !important;
+}
+
+a {
+  color: #000000;
+}
+
+/* FORMULARI AFEGIR ALUMNES */
+#contenidorAlumnes {
+  margin-top: 60px;
+  background-color: #C8DDB4;
+  opacity: 0.8;
+}
+
+#form {
+  margin-top: 60px;
+}
+
+.falu {
+  border-radius: 20px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+#bRegistre1 {
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: 0px;
+}
+
+/* MODAL AFEGIR PROFESSORS */
+.modal-content {
+  background-color: #F7F6C9;
+  border: 1px solid black;
+}
+
+.modal-header {
+  border: 1px solid black;
+}
+
+.modal-body {
+  border: 1px solid black;
+}
+
+.modal-footer {
+  border: 1px solid black;
+}
+
+/* FORMULARI AFEGIR EXCURSIO */
+#titol {
+  text-align: center;
+}
+
+#contenidorExcursions {
+  background-color: #F7F6C9;
+  margin-top: 60px;
+}
+
+.form-control {
+  border: 1px solid black;
+}
+
+input[type=text]:disabled {
+  background: #FFFFFF !important;
+}
+
+input[type=textarea]:disabled {
+  background: #FFFFFF !important;
+}
+
+#colorfooter {
+  background-color: #9EBC82;
+}
+
+#copy {
+  text-decoration: none;
+  color: #000000;
+  text-align: center !important;
+  margin-right: 0px;
+}
+
+/*# sourceMappingURL=fullestil1.css.map */
+

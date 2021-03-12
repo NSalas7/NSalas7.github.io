@@ -1,0 +1,118 @@
+$colorboto: white;
+$colornegre: #000000;
+$radi: 5px;
+$altura: 35px;
+$nodecoracio: none;
+$autom: auto;
+$flexi: flex;
+$justify: space-around;
+$colorNo: #FF1100;
+$colorSi: #39CA00;
+$margeAdalt: 100px;
+$centre: center;
+$marge700: 700px;
+$marge300: 300px;
+$marge200: 200px;
+$radib: 50%;
+$font: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+:root{
+    --color_No: #FF1100;
+    --color_Si: #39CA00;
+}
+
+/*Color Boto Afegir Excursio. */
+#botoAfegirExcursio{
+	background-color: $colorboto;
+	border-style: $colornegre;
+	border-radius: $radi;
+	color: $colornegre;
+}
+
+/*Color Boto Afegir Excursio. */
+#botoVeureExcursio{
+        background-color: $colorboto;
+        border-style: $colornegre;
+        border-radius: $radi;
+        color: $colornegre;
+}
+
+/*Color Boto Cursos. */
+.select-css{
+	background-color: $colorboto;
+	border-style: $colornegre;
+	border-radius: $radi;
+	color: $colornegre;
+	height: $altura;
+}
+
+/*Color Boto modificar. */
+#botoModificar{
+	background-color: $colorboto;
+    border-style: $colornegre;
+    border-radius: $radi;
+    color: $colornegre;
+}
+
+/*Color Boto Eliminar. */
+#botoAlumnesPagats{
+	background-color: $colorboto;
+    border-style: $colornegre;
+    border-radius: $radi;
+    color: $colornegre;
+}
+
+#calendari{
+	border-radius: $radi;
+	height: $altura;
+}
+
+.titol_grafic{
+	text-align: $centre;
+	color: $colornegre;
+	font-family: $font;
+}
+
+.contenidor_grafic{
+    max-width: $marge700;
+    height: $marge300;
+    display: $flexi;
+    justify-content: $justify;
+    align-items: $centre;
+    margin-left: $autom;
+    margin-right: $autom;
+}
+
+.grafic{
+    width: $marge200;
+    height: $marge200;
+    border-radius: $radib;
+    background-image: conic-gradient(var(--color_Si) 7.14%,
+                                     var(--color_No) 7.14%);
+    box-shadow: 1px 1px 5px 1px rgb (70, 70, 70);
+}
+
+.leyenda_all{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.social{
+    color: $colornegre;
+    font-family: $font;
+    line-height: 1.6;
+}
+
+.page-item.active .page-link{
+    background-color: #9EBC82;
+    border-color: #7b7b7b;
+}
+
+.nomExcursio{
+    border-color: #FFFFFF !important;
+}
+
+a{
+    color:#000000;
+}
